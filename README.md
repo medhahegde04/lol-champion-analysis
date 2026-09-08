@@ -10,7 +10,7 @@ A data analysis project exploring League of Legends champion design through base
 - `notebooks/` — EDA notebook
 
 ## Status
-- [X] Data cleaning using Pandas
-- [ ] EDA and visualizations (in progress)
+- [x] Data cleaning using Pandas
+- [x] EDA and visualizations
 - [ ] Advanced analytics
 - [ ] Conclusions and findings
